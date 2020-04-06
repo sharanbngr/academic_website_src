@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sharan Banagiri   
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctoral candidate in physics   
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Minnesota
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD candidate in physics at the University of Minnesota where I study gravitational-waves and their detection with ground-based and space-borne gravitational-wave detectors. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Gravitational-wave physics
+- Astrophysics and Cosmology
+- Techniques for statistical inference and modeling
+  
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics
+    institution: University of Minnesota
+    year: 2014 -
+  - course: B.Tech in Mechanical Eng. with a minor in physics
+    institution: Indian Institute of Technology, Hyderabad
+    year: 2009-2013
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:banag002@umn.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/geodesicvoyager
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8idXXfEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sharanbngr
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +69,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a PhD candidate in physics at the University of Minnesota with Prof. Vuk Mandic. I am broadly interested in gravitational-wave physics and data analysis methods extracting astrophysical and cosmological information from them. I am also particularly interested in studying binary neutron star merger remnants and have been involved in both gravitational-wave searches for these remnants and in development of statistical techniques to find and characterize them. Some of these techniques are also broadly applicable for searches targeting unmodeled or poorly modeled gravitational-wave sources.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+On the other end of the spectrum, I also work on methods and techniques for detecting stochastic gravitational-wave backgrounds. These backgrounds can come from a variety of sources - with perhaps the most anticipated one being a hypothetical cosmological inflationary background. But from the point of view of LIGO detectors, a background from binary black-hole and binary neutron star mergers is the most important one. This background is just the net sum of all those events which are not individually detectable, the so called sub-threshold events. I am also developing techniques for using these events as a probe for large scale structure. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since my research mostly focuses on analysis of data, I am also interested in statistical methods - especially bayesian methods - and their applications to astrophysical problems.
