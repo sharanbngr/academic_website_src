@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Physics
+  - course: PhD Physics
     institution: University of Minnesota
-    year: 2014 -
-  - course: B.Tech in Mechanical Eng. with a minor in physics
+    year: 2014 - Now
+  - course: B.Tech in Mechanical Eng., minor in physics
     institution: Indian Institute of Technology, Hyderabad
     year: 2009-2013
 
@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:banag002@umn.edu
+#- icon: envelope
+#  icon_pack: fas
+#  link: mailto:banag002@umn.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/geodesicvoyager
@@ -69,7 +69,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a PhD candidate in physics at the University of Minnesota with Prof. Vuk Mandic. I am broadly interested in gravitational-wave physics and data analysis methods extracting astrophysical and cosmological information from them. I am also particularly interested in studying binary neutron star merger remnants and have been involved in both gravitational-wave searches for these remnants and in development of statistical techniques to find and characterize them. Some of these techniques are also broadly applicable for searches targeting unmodeled or poorly modeled gravitational-wave sources.
+I am a PhD candidate in physics at the University of Minnesota working with [Prof. Vuk Mandic](http://groups.physics.umn.edu/ligo/). I am broadly interested in gravitational-wave physics, and data analysis methods for extracting astrophysical and cosmological information from them. I am a member of the [LIGO scientific collaboration](https://www.ligo.org/) and the LISA consortium. 
+
+
+I am particularly interested in studying binary neutron star merger remnants and have been involved in analysis trying to find signals from a potential remnant following the exceptional binary neutron star gravitational-wave event [GW170817](https://en.wikipedia.org/wiki/GW170817) in 2017. I have also worked on development of statistical techniques to find gravitational-wave signals from these remnants  and characterize them. 
 
 On the other end of the spectrum, I also work on methods and techniques for detecting stochastic gravitational-wave backgrounds. These backgrounds can come from a variety of sources - with perhaps the most anticipated one being a hypothetical cosmological inflationary background. But from the point of view of LIGO detectors, a background from binary black-hole and binary neutron star mergers is the most important one. This background is just the net sum of all those events which are not individually detectable, the so called sub-threshold events. I am also developing techniques for using these events as a probe for large scale structure. 
 
