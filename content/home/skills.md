@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Research"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  #icon = "Gravitational-waves as tools to prove large scale"
+  #icon_pack = "fab"
+  name = "Gravitational-waves as tools to probe large scale structure"
   description = "90%"
   
 [[feature]]

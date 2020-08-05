@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in physics at the University of Minnesota where I study gravitational-waves and their detection with ground-based and space-borne gravitational-wave detectors. 
+bio: I'm doing my PhD in physics at the University of Minnesota where I study gravitational-waves and their detection with ground-based and space-borne gravitational-wave detectors. 
 
 interests:
 - Gravitational-wave physics
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD Physics
     institution: University of Minnesota
-    year: 2014 - Now
+    year: 2014 - Present
   - course: B.Tech in Mechanical Eng., minor in physics
     institution: Indian Institute of Technology, Hyderabad
     year: 2009-2013
@@ -72,8 +72,6 @@ user_groups:
 I am a PhD candidate in physics at the University of Minnesota working with [Prof. Vuk Mandic](http://groups.physics.umn.edu/ligo/). I am broadly interested in gravitational-wave physics, and data analysis methods for extracting astrophysical and cosmological information from them. I am a member of the [LIGO scientific collaboration](https://www.ligo.org/) and the LISA consortium. 
 
 
-I am particularly interested in studying binary neutron star merger remnants and have been involved in analysis trying to find signals from a potential remnant following the exceptional binary neutron star gravitational-wave event [GW170817](https://en.wikipedia.org/wiki/GW170817) in 2017. I have also worked on development of statistical techniques to find gravitational-wave signals from these remnants  and characterize them. 
 
-On the other end of the spectrum, I also work on methods and techniques for detecting stochastic gravitational-wave backgrounds. These backgrounds can come from a variety of sources - with perhaps the most anticipated one being a hypothetical cosmological inflationary background. But from the point of view of LIGO detectors, a background from binary black-hole and binary neutron star mergers is the most important one. This background is just the net sum of all those events which are not individually detectable, the so called sub-threshold events. I am also developing techniques for using these events as a probe for large scale structure. 
 
 Since my research mostly focuses on analysis of data, I am also interested in statistical methods - especially bayesian methods - and their applications to astrophysical problems.
