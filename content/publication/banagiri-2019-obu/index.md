@@ -1,7 +1,7 @@
 ---
 title: "Search strategies for long gravitational-wave transients: hidden Markov model tracking and seedless clustering"
 date: 2019-01-01
-publishDate: 2020-06-07T04:41:37.977022Z
+publishDate: 2020-11-03T17:30:06.865720Z
 authors: ["Sharan Banagiri", "Ling Sun", "Michael W. Coughlin", "Andrew Melatos"]
 publication_types: ["2"]
 abstract: ""

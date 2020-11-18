@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Selected Publications"
+subtitle = "This is a select list of papers to which I made substantial contribution. As a member of the LIGO scientific collaboration I am a coauthor on all papers published by LIGO-Virgo since 2017. Visit my [INSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20banagiri) or [ADS](https://ui.adsabs.harvard.edu/search/q=find%20a%20banagiri&sort=date%20desc%2C%20bibcode%20desc&p_=0) pages for a complete list of my publications. "
 
 
 
